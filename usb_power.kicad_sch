@@ -7026,6 +7026,16 @@
 	)
 	(wire
 		(pts
+			(xy 386.08 185.42) (xy 386.08 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aed2a80-e4d7-4eaf-80cf-12503bc82766")
+	)
+	(wire
+		(pts
 			(xy 350.52 153.67) (xy 350.52 159.385)
 		)
 		(stroke
@@ -7716,6 +7726,16 @@
 	)
 	(wire
 		(pts
+			(xy 386.08 172.72) (xy 375.92 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93052a57-38df-4b74-80ce-22a57a46dc62")
+	)
+	(wire
+		(pts
 			(xy 314.96 204.47) (xy 314.96 172.72)
 		)
 		(stroke
@@ -7833,6 +7853,16 @@
 			(type default)
 		)
 		(uuid "999cfa30-e480-4005-b8cb-b59630607afa")
+	)
+	(wire
+		(pts
+			(xy 386.08 175.26) (xy 386.08 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99bd99f7-86fb-47f2-8750-998eb35bbb53")
 	)
 	(wire
 		(pts
@@ -8316,7 +8346,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 189.23) (xy 257.81 189.23)
+			(xy 257.81 189.23) (xy 330.2 189.23)
 		)
 		(stroke
 			(width 0)
@@ -9438,6 +9468,24 @@
 			"////////////////////////////////////////////mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ"
 			"mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ"
 			"mZmZmQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
@@ -15472,7 +15520,25 @@
 			"AGUAdgBlAFMAVAA3AHgAegA1AC8AMABIADkAdAArADgAZQBWAE8AVgBNADMAcQB1AG8AUABpAGwA"
 			"MQBiAEoAbABTADMAdgA3AFYAdgB3AGcATABTADIAdAAvAC8ANgA3AGkAVABGACsAOABPAEMAQgB2"
 			"AEkAawA4AHgATAArAFYAKwBhAEcAcgBxAHoAdAAvAC8AdgB6AG4AegA1ADgAVABCAFoANgA3ADUA"
-			"dQBuAHAAZQBlAC8AZQBQAGYASgBvAGMAaQBRAEoAOABSAE4AQwBzAA=="
+			"dQBuAHAAZQBlAC8AZQBQAGYASgBvAGMAaQBRAEoAOABSAE4AQwBzAHUAYgBDAGkAUwBNAFoAQgBH"
+			"AEIAZwBZAFAARABEAEQAegAvAGMAdgBSAHMAVgBHAFIAbABKAHgAaQBSADkAKwB2AFQAaAAxAHkA"
+			"TwBwAFYARAByAHYALwB4AGgALwBzAHgAWQBXAEYAdQBuAHAANgBTAFMAOABvAHEASgBpADkATwBq"
+			"AFIASgBOAHoAQQB3AE8ARAArAC8AZgB0AHkALwBjAEwAeAA0ADgAZAA1AGIAaABSAHIAOAA2ACsA"
+			"dgByADMALwAyADcARgBrAHUAMgB0AFcAcgBWADAAMwBOAHUASgAzADUAMABMAEYAVAB4AHoAWgB0"
+			"ADIAcwBoADkAWAAyAE4AagA0AHoATgBuAHoAcQBnAHAAdQBsAE8AbgBUAHAAbQBZAG0AaQBpAHAA"
+			"UgBBAGoAcwA3AE8AegArAHUALwBrAGYARgAvAFAAYQB0AFcAdgBjAGYAZwAxAC8AZgAvACsARwBk"
+			"AEQAcAAzADcAdAB4AEIAUwBDAEIAWAAvAG4ANQArAGYAbgBaADIAZABpAFIAUQBUADEALwBQADAA"
+			"ZABFAFIAWQAvAHoAdwA0AFUATQA5AGYAZQBhAFYAbAB5ADUAZABLAGwAOQBEAEEAUQBEAGcAMgBM"
+			"AEYAagBkAGIASgB0AHcAbQBUADcAeQBwAFUAcgBKAE4AdQA3AGQAdQAwAEMAQQBGAHQAYgBXADMA"
+			"NwBkAHgAeABnAFAASABqAHkAWQBwAEcARgBsAFoAZABXADEAYQAxAGMANwBPADcAdQBZAG0ASgBp"
+			"AHkAcwBqAEwARwBsAEQAUwBnAFEAWQBNAEcAOABXAHYASwBnAEEARQBEAHkAQwBPADcAZAArACsA"
+			"ZQBuAHAANQBCAHcAaQBNAGoASQAvAFgAMQA5AFcAdABmAGcAMgAwAGYAOQBQAFQAMAB1AEkAOQBT"
+			"AFgAbAA1AE8AdgBpAHgAUwA4AFcAVgBmAGoAUABEAEQAUwBzAFQANwAxAFEARwBjAGIAawB2AFUA"
+			"VwArAFkASABHAHoASgBJAHIAYQBMAEwATwBoACsAWAAzADIAUABCAC8AWABuAGcAdwBBAEUAdQA4"
+			"AG0AZQBmAGYAVgBaAFgAMAB3AEkAQQA2AE4AVwB6ADUANgBOAEgAagA1AEQAOAB2AFEAZwBBAGoA"
+			"aAA4AC8AegB0AGEAYwBPAHUAbABQAG4ARABoAHgAdgA4AEkATwBmAGcAQgBBAEMAQgBVAFcARgBw"
+			"AEoAbgBwAGEAVwBsAGsAWgBhAGQAYQA5AGoAMQA5AGYAWAA5AC8AZgAyAEoASQAxAE8ATQA4AFkA"
+			"dwBaAE0ALwBoADUANABYADUALwAvAFAASABIADkAUgBiAFoAMgBMAA=="
 		)
 	)
 	(label "5V_INA"
@@ -17297,6 +17363,92 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:CC0603KRX7R9BB104")
+		(at 386.08 180.34 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3eb3e1d7-db2c-4ec2-aceb-04eeb5ec6ff6")
+		(property "Reference" "C8"
+			(at 388.112 176.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0603KRX7R9BB104"
+			(at 389.89 181.6099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0603"
+			(at 393.7 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-50V_C14663.html"
+			(at 396.24 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100nF"
+			(at 390.144 178.054 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C14663"
+			(at 398.78 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field6" "0603"
+			(at 386.08 180.34 90)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d2fbab07-308d-4210-986a-146deb553fc7")
+		)
+		(pin "2"
+			(uuid "f84918fb-4103-4f0f-820e-d44567bf6a94")
+		)
+		(instances
+			(project "stm32"
+				(path "/6657db5f-e034-448d-bae3-f44b9f033a3a/6f1f01ea-fc88-494c-8e17-b18350ce0e3a"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:0603WAF8060T5E")
 		(at 328.93 140.97 270)
 		(mirror x)
@@ -17508,6 +17660,69 @@
 			(project "stm32"
 				(path "/6657db5f-e034-448d-bae3-f44b9f033a3a/6f1f01ea-fc88-494c-8e17-b18350ce0e3a"
 					(reference "#PWR0214")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SAMC21_breakout-rescue:GND")
+		(at 386.08 186.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "49037d71-0833-4940-b0f0-64b49d56aabf")
+		(property "Reference" "#PWR0425"
+			(at 386.08 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 386.08 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 386.08 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 386.08 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eee4f208-c97d-45b2-b67a-44fd2721a534")
+		)
+		(instances
+			(project "stm32"
+				(path "/6657db5f-e034-448d-bae3-f44b9f033a3a/6f1f01ea-fc88-494c-8e17-b18350ce0e3a"
+					(reference "#PWR0425")
 					(unit 1)
 				)
 			)
@@ -19369,7 +19584,8 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:0603WAF1002T5E")
-		(at 252.73 162.56 90)
+		(at 252.73 162.56 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19377,7 +19593,7 @@
 		(dnp no)
 		(uuid "88204575-c3a3-4cab-bdb6-040516d794ae")
 		(property "Reference" "R43"
-			(at 255.27 161.2899 90)
+			(at 250.19 161.2899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19386,7 +19602,7 @@
 			)
 		)
 		(property "Value" "0603WAF1002T5E"
-			(at 255.27 163.8299 90)
+			(at 250.19 163.8299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19396,7 +19612,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0603"
-			(at 260.35 162.56 0)
+			(at 245.11 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19405,7 +19621,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10KR-1002-1_C25804.html"
-			(at 262.89 162.56 0)
+			(at 242.57 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19414,7 +19630,7 @@
 			)
 		)
 		(property "Description" "10k"
-			(at 250.698 162.56 0)
+			(at 254.762 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19422,7 +19638,7 @@
 			)
 		)
 		(property "LCSC Part" "C25804"
-			(at 265.43 162.56 0)
+			(at 240.03 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
