@@ -549,7 +549,11 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "+3V3": "rgb(0, 194, 0)",
+      "+5V": "rgb(255, 119, 19)",
+      "GND": "rgb(0, 0, 255)"
+    },
     "netclass_assignments": {
       "+3V3": [
         "power"
@@ -558,6 +562,9 @@
         "power"
       ],
       "+5VP": [
+        "power"
+      ],
+      "/USB/5V_INA": [
         "power"
       ],
       "/USB/USB_D+": [

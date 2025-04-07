@@ -4102,7 +4102,7 @@
 	)
 	(text "VDD"
 		(exclude_from_sim no)
-		(at 42.164 24.384 0)
+		(at 51.054 24.638 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4120,6 +4120,16 @@
 			)
 		)
 		(uuid "1d67d141-4646-4534-b901-8b8be4bd0ada")
+	)
+	(text "VDD"
+		(exclude_from_sim no)
+		(at 67.31 24.892 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "37a0858d-daf5-44b6-bb80-1ca1a2cc0c17")
 	)
 	(text "VDDA"
 		(exclude_from_sim no)
@@ -4143,19 +4153,9 @@
 		)
 		(uuid "5a154bb0-b201-4497-937b-187c3b2a04b8")
 	)
-	(text "VBAT"
-		(exclude_from_sim no)
-		(at 67.564 24.638 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "92331a3f-3341-427f-92d9-cacd28600107")
-	)
 	(text "VDDA"
 		(exclude_from_sim no)
-		(at 50.8 24.638 0)
+		(at 42.164 24.638 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4704,6 +4704,16 @@
 	)
 	(wire
 		(pts
+			(xy 300.99 223.52) (xy 331.47 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "297543a4-d870-4bdf-9544-a0522ba50a83")
+	)
+	(wire
+		(pts
 			(xy 50.8 41.91) (xy 41.91 41.91)
 		)
 		(stroke
@@ -4954,16 +4964,6 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 220.98) (xy 308.61 227.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5072a182-bc11-4e17-9c1c-892939412d9e")
-	)
-	(wire
-		(pts
 			(xy 50.8 39.37) (xy 50.8 41.91)
 		)
 		(stroke
@@ -4991,16 +4991,6 @@
 			(type default)
 		)
 		(uuid "525b359f-60b9-454c-a2b5-f0135af329dc")
-	)
-	(wire
-		(pts
-			(xy 300.99 223.52) (xy 331.47 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52e44bdd-f8f6-4d66-8703-c7f5c8661105")
 	)
 	(wire
 		(pts
@@ -5964,7 +5954,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 237.49) (xy 308.61 240.03)
+			(xy 300.99 236.22) (xy 300.99 238.76)
 		)
 		(stroke
 			(width 0)
@@ -6101,6 +6091,16 @@
 			(type default)
 		)
 		(uuid "df912732-7718-4433-8395-f52165186a22")
+	)
+	(wire
+		(pts
+			(xy 300.99 223.52) (xy 300.99 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0fabbe8-482d-40b9-8f2d-b0af2c145f35")
 	)
 	(wire
 		(pts
@@ -6937,7 +6937,7 @@
 		)
 		(uuid "522c0619-b69b-4d26-affc-3d57630109d3")
 	)
-	(hierarchical_label "RGB_LEDS_R"
+	(hierarchical_label "RGB_LEDS"
 		(shape output)
 		(at 290.83 71.12 0)
 		(effects
@@ -7762,7 +7762,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 308.61 240.03 0)
+		(at 300.99 238.76 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7771,7 +7771,7 @@
 		(dnp no)
 		(uuid "13ba6448-ff22-4228-b73f-ab88d4ec469a")
 		(property "Reference" "#PWR019"
-			(at 308.61 246.38 0)
+			(at 300.99 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7780,7 +7780,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 308.61 243.84 0)
+			(at 300.99 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7788,7 +7788,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 308.61 240.03 0)
+			(at 300.99 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7797,7 +7797,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 240.03 0)
+			(at 300.99 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7806,7 +7806,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 308.61 240.03 0)
+			(at 300.99 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10085,7 +10085,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:0603WAF1001T5E")
-		(at 308.61 232.41 270)
+		(at 300.99 231.14 270)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10093,7 +10093,7 @@
 		(dnp yes)
 		(uuid "8aef8169-6fcb-47de-8199-42b49a3043a0")
 		(property "Reference" "R41"
-			(at 309.88 231.14 90)
+			(at 302.26 229.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10102,7 +10102,7 @@
 			)
 		)
 		(property "Value" "0603WAF1001T5E"
-			(at 303.53 232.41 0)
+			(at 295.91 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10111,7 +10111,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0603"
-			(at 300.99 232.41 0)
+			(at 293.37 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10120,7 +10120,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_1KR-1001-1_C21190.html"
-			(at 298.45 232.41 0)
+			(at 290.83 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10129,7 +10129,7 @@
 			)
 		)
 		(property "Description" "1K"
-			(at 309.88 233.68 90)
+			(at 302.26 232.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10138,7 +10138,7 @@
 			)
 		)
 		(property "LCSC Part" "C21190"
-			(at 295.91 232.41 0)
+			(at 288.29 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
