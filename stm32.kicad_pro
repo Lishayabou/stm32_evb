@@ -551,8 +551,12 @@
     },
     "net_colors": {
       "+3V3": "rgb(0, 194, 0)",
-      "+5V": "rgb(255, 119, 19)",
-      "GND": "rgb(0, 0, 255)"
+      "+5V": "rgb(255, 153, 0)",
+      "+5VP": "rgb(0, 194, 194)",
+      "/USB/VIN": "rgb(255, 255, 0)",
+      "/USB/raw_voltage": "rgb(132, 0, 132)",
+      "GND": "rgb(0, 0, 255)",
+      "LIPO+": "rgb(194, 194, 0)"
     },
     "netclass_assignments": {
       "+3V3": [
