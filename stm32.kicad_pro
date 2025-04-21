@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -58,7 +58,56 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|57075000|126670000|2ef2d581-8261-4e27-a7c7-60f8565d80e1|91834f1e-7dc5-41d6-8df8-706ea2143de1",
+          "footprint req"
+        ],
+        [
+          "clearance|62925000|126670000|0c9f6c84-10ef-4307-ab3f-4980a90daea1|6e98b9eb-df46-46fb-93be-0f232fb60c95",
+          "footprint req"
+        ],
+        [
+          "clearance|82325000|63700000|54c8f4d4-bf78-4f7c-9a24-13f4efd8148e|ee2eca9c-2a34-46c1-b5b8-028f6c2c3cf0",
+          "footprint req"
+        ],
+        [
+          "clearance|82500000|64170000|c3214118-8ace-459e-a6ae-a575ff67fe2b|ee2eca9c-2a34-46c1-b5b8-028f6c2c3cf0",
+          "footprint req"
+        ],
+        [
+          "clearance|82800000|61320000|09537af5-4385-49cd-b960-9b31a11d7ced|68edb4c6-03f5-4f3f-9f7a-b233032fea52",
+          "footprint req"
+        ],
+        [
+          "clearance|82800000|64680000|c3214118-8ace-459e-a6ae-a575ff67fe2b|455d5630-bad5-4ecf-ad1b-581d8ed0c235",
+          "footprint req"
+        ],
+        [
+          "clearance|84200000|61320000|16c7a844-d8a9-4695-b732-4d68b5076589|4c1a3858-cf05-4feb-b93d-62179bb2bb94",
+          "footprint req"
+        ],
+        [
+          "clearance|84200000|64680000|495d6262-a120-4ae5-aebd-45f28446dc9a|dbe2fde5-d2a6-4029-813a-bb86f5aa49cf",
+          "footprint req"
+        ],
+        [
+          "clearance|84500000|64170000|dbe2fde5-d2a6-4029-813a-bb86f5aa49cf|fcab02a5-92b6-4700-b0d7-153a895611e2",
+          "footprint req"
+        ],
+        [
+          "clearance|84675000|62300000|2e00c2bb-c54f-4bd0-bf63-728b1d53cf24|aa8326be-7d05-46ac-a4b1-51214f7fd48d",
+          "footprint req"
+        ],
+        [
+          "clearance|84680000|63700000|fcab02a5-92b6-4700-b0d7-153a895611e2|845df6ed-d8b1-4000-8b21-e5da02c41401",
+          "footprint req"
+        ],
+        [
+          "clearance|84770000|61900000|aa8326be-7d05-46ac-a4b1-51214f7fd48d|16c7a844-d8a9-4695-b732-4d68b5076589",
+          "footprint req"
+        ]
+      ],
       "meta": {
         "version": 2
       },
